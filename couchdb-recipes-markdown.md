@@ -11,18 +11,22 @@ Installation
 ------------
 
 Unix
+
 *  how to install from source (get these from the wiki)
 *  how to install couchdb on Ubuntu < Karmic
 *  how to install couchdb on Ubuntu >= Karmic
 
 Android
+
 *  how to install couchdb on Android
 
 Mac
+
 *  CouchDBX
 *  Source
 
 Windows
+
 *  Binary
   *  how to bring up Futon on Windows
 
@@ -30,11 +34,13 @@ CouchDB Basic Admin
 -------------------
 
 Futon
+
 *  database
 *  document
 *  users
 
 Compaction
+
 *  when to do
 *  when not to do
 
@@ -42,6 +48,7 @@ Development Tools
 -----------------
 
 How to access couchdb
+
 *  curl
 *  various language clients
 ** ruby
@@ -50,6 +57,7 @@ How to access couchdb
 ** java
 
 How to debug
+
 *  firebug
 *  debugging via other browser
 *  debugging on Android
@@ -58,14 +66,17 @@ CouchDB as pure REST JSON db
 ----------------------------
 
 CRUD operations
+
 *  database
 *  document
 
 Bulk writes
+
 *  using other clients
 *  using hovercraft
 
 Performance testing using Relaxamation
+
 *  multiple recipes one for each scenario
 
 Auth and _user db
@@ -92,14 +103,17 @@ How to use create composite keys
 How to use map vs map + reduce
 
 How to get good performance from views
+
 *  don't emit the whole doc
 *  ??? what else
 
 _list
+
 *  templating using Mustache.js
 *  what is not permitted inside an _list
 
 _show
+
 *  templating using Mustache.js
 
 Using Views
