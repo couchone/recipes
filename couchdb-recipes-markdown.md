@@ -1,11 +1,6 @@
 Chapter Outline
 ===============
 
-I have created a strawman "chapter" arrangement in the order that a person needs to know the info, for instance one needs to know how to install something before one needs to know how to do xyz, however installation is usually in the back if at all.  I have kept it up front so a new user can just work through the cookbook in order of difficulty/complexity of subject matter at least for the first 3-4 chapters.
-
-If you want to add to this outline please use the Github Markdown conventions
-
-Nitin 
 
 Installation
 ------------
