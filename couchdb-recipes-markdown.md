@@ -11,62 +11,62 @@ Installation
 ------------
 
 Unix
-* how to install from source (get these from the wiki)
-* how to install couchdb on Ubuntu < Karmic
-* how to install couchdb on Ubuntu >= Karmic
+*  how to install from source (get these from the wiki)
+*  how to install couchdb on Ubuntu < Karmic
+*  how to install couchdb on Ubuntu >= Karmic
 
 Android
-* how to install couchdb on Android
+*  how to install couchdb on Android
 
 Mac
-* CouchDBX
-* Source
+*  CouchDBX
+*  Source
 
 Windows
-* Binary
-** how to bring up Futon on Windows
+*  Binary
+  *  how to bring up Futon on Windows
 
 CouchDB Basic Admin
 -------------------
 
 Futon
-* database
-* document
-* users
+*  database
+*  document
+*  users
 
 Compaction
-* when to do
-* when not to do
+*  when to do
+*  when not to do
 
 Development Tools
 -----------------
 
 How to access couchdb
-* curl
-* various language clients
+*  curl
+*  various language clients
 ** ruby
 ** python
 ** php
 ** java
 
 How to debug
-* firebug
-* debugging via other browser
-* debugging on Android
+*  firebug
+*  debugging via other browser
+*  debugging on Android
 
 CouchDB as pure REST JSON db
 ----------------------------
 
 CRUD operations
-* database
-* document
+*  database
+*  document
 
 Bulk writes
-* using other clients
-* using hovercraft
+*  using other clients
+*  using hovercraft
 
 Performance testing using Relaxamation
-* multiple recipes one for each scenario
+*  multiple recipes one for each scenario
 
 Auth and _user db
 
@@ -92,15 +92,15 @@ How to use create composite keys
 How to use map vs map + reduce
 
 How to get good performance from views
-* don't emit the whole doc
-* ??? what else
+*  don't emit the whole doc
+*  ??? what else
 
 _list
-* templating using Mustache.js
-* what is not permitted inside an _list
+*  templating using Mustache.js
+*  what is not permitted inside an _list
 
 _show
-* templating using Mustache.js
+*  templating using Mustache.js
 
 Using Views
 -----------
@@ -114,15 +114,15 @@ Paging
 CouchDB Extensions
 ------------------
 
-* Lucene
+*  Lucene
 ** installing
 ** writing views
 
-* GeoCouch
+*  GeoCouch
 ** installing
 ** writing views
 
-* Other lang view servers
+*  Other lang view servers
 ** Python
 ** Ruby
 
@@ -132,8 +132,8 @@ CouchApp
 Installing CouchApp
 
 Using couchapp from inside your VCS 
-* in git staging
-* in SVN sandbox
+*  in git staging
+*  in SVN sandbox
 
 Using couchapp inside Eclipse
 
@@ -145,12 +145,12 @@ Mobile development
 ------------------
 
 Android
-* install
-* dev setup using Eclipse
-* dev setup using Textmate or other editors
+*  install
+*  dev setup using Eclipse
+*  dev setup using Textmate or other editors
 
 Nokia N900
-* install
+*  install
 
 iPad/iPhone
 
@@ -173,19 +173,19 @@ Deployment
 ----------
 
 How to integrate into existing webservers
-* apache
-* nginx
-* mongrel
-* mongrel2 ?
-* cherrypy
-* django
-* tomcat
+*  apache
+*  nginx
+*  mongrel
+*  mongrel2 ?
+*  cherrypy
+*  django
+*  tomcat
 
 Enterprise
 ----------
 
 How to integrate into existing permissions systems
-* Java security
-* Active Directory
-* GSS API 
-* LDAP
+*  Java security
+*  Active Directory
+*  GSS API 
+*  LDAP
