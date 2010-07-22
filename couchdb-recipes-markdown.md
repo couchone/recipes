@@ -28,7 +28,7 @@ Mac
 Windows
 
 *  Binary
-  *  how to bring up Futon on Windows
+   *  How to bring up Futon on Windows
 
 CouchDB Basic Admin
 -------------------
@@ -51,10 +51,10 @@ How to access couchdb
 
 *  curl
 *  various language clients
-** ruby
-** python
-** php
-** java
+   *  ruby
+   *  python
+   *  php
+   * java
 
 How to debug
 
@@ -129,16 +129,16 @@ CouchDB Extensions
 ------------------
 
 *  Lucene
-** installing
-** writing views
+   *  installing
+   *  writing views
 
 *  GeoCouch
-** installing
-** writing views
+   *  installing
+   *  writing views
 
 *  Other lang view servers
-** Python
-** Ruby
+   *  Python
+   *  Ruby
 
 CouchApp
 --------
@@ -159,11 +159,13 @@ Mobile development
 ------------------
 
 Android
+
 *  install
 *  dev setup using Eclipse
 *  dev setup using Textmate or other editors
 
 Nokia N900
+
 *  install
 
 iPad/iPhone
@@ -187,6 +189,7 @@ Deployment
 ----------
 
 How to integrate into existing webservers
+
 *  apache
 *  nginx
 *  mongrel
@@ -199,6 +202,7 @@ Enterprise
 ----------
 
 How to integrate into existing permissions systems
+
 *  Java security
 *  Active Directory
 *  GSS API 
